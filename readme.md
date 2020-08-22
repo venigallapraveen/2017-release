@@ -7,3 +7,5 @@ This is an old version of Learn Anything website as once featured on [front page
 The code is archived and is no longer used. If you wish to make any changes, feel free to fork it.
 
 Live version of this site runs on [learn-anything.xyz](https://learn-anything.xyz)
+
+[![Run on Repl.it](https://repl.it/badge/github/learn-anything/2017-release)](https://repl.it/github/learn-anything/2017-release)
